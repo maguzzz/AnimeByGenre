@@ -1,4 +1,4 @@
-# AnimeByGenre
+# Anime by Genre
 
 <h2>A programm that outputs list of Animes based on user Genre input</h2>
 
