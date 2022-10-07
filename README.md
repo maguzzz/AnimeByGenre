@@ -11,4 +11,4 @@ What i have used.
 -sep | to seperate list items with a ","
 -end | to get two printing commands in the same line!
 
-[AnimebyGenre](https://user-images.githubusercontent.com/65002100/194484396-a02a3724-10b4-4389-9f1a-96baf8a3f69c.gif)
+![AnimebyGenre!](https://user-images.githubusercontent.com/65002100/194484396-a02a3724-10b4-4389-9f1a-96baf8a3f69c.gif)
