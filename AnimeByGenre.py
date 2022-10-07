@@ -18,5 +18,5 @@ for i in genres:
         print(*i[1:], sep=", ")
         break
 else:
-    print("Looks like we dont have the Genre " + input + "（ ；´Д｀）")
+    print("Looks like we dont have the Genre " + input + "（ ´Д｀；）")
 print("----------------------------------------")
