@@ -1,4 +1,4 @@
-# List of animes (First list items is the Genre)
+# List of animes (First list item is the Genre)
 genres = [
     ["Action", "Hunter × Hunterr", "Fire Force", "Akame ga Kill"],
     ["Chill", "My Neighbor Totoro", "Girls'Last Tour", "Komi can’t communicate"],
