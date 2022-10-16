@@ -3,11 +3,11 @@ genres = [
     ["Action", "Hunter × Hunterr", "Fire Force", "Akame ga Kill"],
     ["Chill", "My Neighbor Totoro", "Girls'Last Tour", "Komi can’t communicate"],
     ["Mystery", "Great Pretender", "Death Note", "Black Butler"],
-    ["Comedy", "The Devil as a Part-Timer", "Bloodline Blockade", "Blood Lad"],
+    ["Comedy", "Mob Psycho 100", "Bloodline Blockade", "Blood Lad"],
 ]
 print("----------------------------------------")
 print("What type of Anime Genre do you want ?\n")
-# Gets input and saves it in "input"
+# Gets input and saves it as "input"
 input = input("Action | Chill | Mystery | Comedy  : ")
 print("---------------------------------------- \n")
 # Getting every genre comparing it with the input and printing the animes
