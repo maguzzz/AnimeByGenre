@@ -1,6 +1,6 @@
 # List of animes (First list items is the Genre)
 genres = [
-    ["Action", "Hunter × Hunterr", "Fire Force", "Akame ga Kill"],
+    ["Action", "Hunter × Hunter", "Fire Force", "Akame ga Kill"],
     ["Chill", "My Neighbor Totoro", "Girls'Last Tour", "Komi can’t communicate"],
     ["Mystery", "Great Pretender", "Death Note", "Black Butler"],
     ["Comedy", "The Devil as a Part-Timer", "Bloodline Blockade", "Blood Lad"],
