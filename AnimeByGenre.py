@@ -15,6 +15,7 @@ print("---------------------------------------- \n")
 for i in genres:
     if i[0] == input:
         print(input + " Animes: ", end="")
+        # Separating each Anime with a comma
         print(*i[1:], sep=", ")
         break
 else:
